@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"m":"bruening.jbrueningc482","l":"bruening.jbrueningc482"},{"m":"bruening.jbrueningc482","l":"Controller"},{"m":"bruening.jbrueningc482","l":"Model"}];updateSearchResults();
